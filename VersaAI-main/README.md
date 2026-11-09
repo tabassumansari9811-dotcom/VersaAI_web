@@ -223,9 +223,7 @@ GET  /api/user                 -> get user profile and usage (auth)
 
 ---
 
-Authors
 
-Made by Yoshita, Sadhna, and Vandana.
 
 ---
 
